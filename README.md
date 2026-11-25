@@ -19,9 +19,7 @@ Dá para usar pelo **terminal** (menu) ou pela **interface gráfica** no navegad
 
 ## Como executar
 
-**Sem instalar nada:** baixe o arquivo [`simulador.html`](simulador.html) e abra com dois cliques no navegador.
-
-**A partir do código:** precisa do [Node.js](https://nodejs.org) **20.19 ou mais recente** (recomendado: 22 LTS).
+Pré-requisito: [Node.js](https://nodejs.org) **20.19 ou mais recente** (recomendado: 22 LTS).
 
 ```bash
 npm install          # instala as dependências (uma vez só)
